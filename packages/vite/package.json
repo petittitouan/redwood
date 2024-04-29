@@ -80,7 +80,7 @@
     "express": "4.19.2",
     "find-my-way": "8.1.0",
     "http-proxy-middleware": "2.0.6",
-    "isbot": "3.8.0",
+    "isbot": "5.1.6",
     "react": "19.0.0-canary-cb151849e1-20240424",
     "react-server-dom-webpack": "19.0.0-canary-cb151849e1-20240424",
     "vite": "5.2.8",
