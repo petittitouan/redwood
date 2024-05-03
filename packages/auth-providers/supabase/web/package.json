@@ -31,14 +31,14 @@
     "@babel/cli": "7.24.1",
     "@babel/core": "^7.22.20",
     "@supabase/ssr": "0.3.0",
-    "@supabase/supabase-js": "2.40.0",
+    "@supabase/supabase-js": "2.43.1",
     "@types/react": "^18.2.55",
     "react": "19.0.0-canary-cb151849e1-20240424",
     "typescript": "5.4.5",
     "vitest": "1.4.0"
   },
   "peerDependencies": {
-    "@supabase/supabase-js": "2.40.0"
+    "@supabase/supabase-js": "2.43.1"
   },
   "gitHead": "3905ed045508b861b495f8d5630d76c7a157d8f1"
 }
